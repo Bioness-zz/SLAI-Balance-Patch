@@ -2,12 +2,11 @@
 
 The balance patch was made to allow for a greater diversity of builds in a PvP setting by improving missiles, melee weapons, lasers, and other weak weapons, and increasing option mod diversity and overall mobility of SVs.
 
-Balance Patch ISO Download Location: https://drive.google.com/file/d/11pIBdwGYNLhR2RoNjmuqttz-fHqkgrcm/view?usp=sharing
+Balance Patch ISO Download Location: https://drive.google.com/file/d/1zYK-IH7iYTM5YxrTBtHQScaPM1aVhv1P/view?usp=sharing
 
-Balance Overhaul version 1.07
+Balance Overhaul version 1.08
 
 Index Number is in the [ ] brackets
-
 
 BODY MODS
 
@@ -166,11 +165,15 @@ Increased max heavy ammunition scaling to 42 from 32
 
 [4] T67 Grenade M.Gun:
 Increased base weight to 2.2 from 1.8
-Increased base blast radius to 20 from 18
+Increased base blast radius to 22 from 18
+Increased blast radius grow level scaling to -4 from -6
 Increased blast radius scaling to -10 from -12
-Increased base blast time to 20 from 18
+Increased base blast time to 22 from 18
+Increased blast time grow level scaling to -4 from -6
 Increased blast time scaling to -10 from -12
 Increased base blast damage to 2,800 from 1800
+Increased blast damage grow level scaling to 1,200 from 600
+Increased blast damage scaling to 2,400 from 1,200
 Increased minimum blast to 7 from 0
 Increased max heavy ammunition scaling to 65 from 45
 
@@ -391,9 +394,12 @@ Increased weapon destruction modifier to 3.00 from 2.28
 Increased minimum blast to 8 from 1
 
 [37] M-4 Recoilless Gun
+Increased base blast damage to 3,400 from 2,400
+Increased blast damage scaling to 2,950 from 1,950
+Increased blast damage grow level scaling to 1,850 from 1,350
 Increased detonation time to 55 from 45
-Increased base ammunition to 110 from 85
-Increased max heavy ammunition scaling to 36 from 26
+Increased start speed to 7 from 5
+Increased top speed to 7 from 5
 Increased impact to 1 from 0.35
 Increased minimum blast to 3 from 1
 
@@ -545,7 +551,6 @@ Increased base blast time to 20 from 16
 Increased blast time scaling to -10 from -14
 Increased blast damage to 1,600 from 1,200
 Increased blast damage scaling to 600 from 300
-Increased base ammunition to 40 from 20
 Increased max heavy ammunition scaling to 12 from 6
 Increased minimum blast to 10 from  2
 
@@ -617,7 +622,6 @@ Increased base blast time to 20 from 16
 Increased blast time scaling to -10 from -14
 Increased blast damage to 1,600 from 1,200
 Increased blast damage scaling to 600 from 300
-Increased base ammunition to 40 from 20
 Increased max heavy ammunition scaling to 12 from 6
 Increased minimum blast to 10 from  2
 
@@ -689,7 +693,6 @@ Increased base blast time to 20 from 16
 Increased blast time scaling to -10 from -14
 Increased blast damage to 1,600 from 1,200
 Increased blast damage scaling to 600 from 300
-Increased base ammunition to 40 from 20
 Increased max heavy ammunition scaling to 12 from 6
 Increased minimum blast to 10 from  2
 
@@ -749,7 +752,6 @@ Increased base blast time to 19 from 15
 Increased blast time scaling to -10 from -14
 Increased blast damage to 1,600 from 1,200
 Increased blast damage scaling to 600 from 300
-Increased base ammunition to 40 from 20
 Increased max heavy ammunition scaling to 12 from 6
 Increased minimum blast to 9 from  1
 
@@ -811,7 +813,6 @@ Increased base blast time to 19 from 15
 Increased blast time scaling to -10 from -14
 Increased blast damage to 1,600 from 1,200
 Increased blast damage scaling to 600 from 300
-Increased base ammunition to 40 from 20
 Increased max heavy ammunition scaling to 12 from 6
 Increased minimum blast to 9 from  1
 
